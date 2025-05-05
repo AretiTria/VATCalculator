@@ -1,0 +1,16 @@
+C:\Users\withan\source\repos\ΦΠΑ\bin\Debug\net9.0-windows\ΦΠΑ.exe
+C:\Users\withan\source\repos\ΦΠΑ\bin\Debug\net9.0-windows\ΦΠΑ.deps.json
+C:\Users\withan\source\repos\ΦΠΑ\bin\Debug\net9.0-windows\ΦΠΑ.runtimeconfig.json
+C:\Users\withan\source\repos\ΦΠΑ\bin\Debug\net9.0-windows\ΦΠΑ.dll
+C:\Users\withan\source\repos\ΦΠΑ\bin\Debug\net9.0-windows\ΦΠΑ.pdb
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.Form1.resources
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.csproj.GenerateResource.cache
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.AssemblyInfoInputs.cache
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.AssemblyInfo.cs
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.csproj.CoreCompileInputs.cache
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.dll
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\refint\ΦΠΑ.dll
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.pdb
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ΦΠΑ.genruntimeconfig.cache
+C:\Users\withan\source\repos\ΦΠΑ\obj\Debug\net9.0-windows\ref\ΦΠΑ.dll
